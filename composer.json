@@ -1,0 +1,23 @@
+{
+    "name": "experimental/storage-link",
+    "description": "FAdeA Experimental storage-link generator from a route",
+    "authors": [
+        {
+            "name": "Marcelo",
+            "email": "zedlavolecram@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Experimental\\StorageLink\\" : "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers" : [
+              "Experimental\\StorageLink\\StorageLinkServiceProvider"
+            ]
+        }
+    }
+}
