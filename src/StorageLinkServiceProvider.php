@@ -5,7 +5,6 @@
 
 namespace Experimental\StorageLink;
 
-
 use Illuminate\Support\ServiceProvider;
 
 class StorageLinkServiceProvider extends ServiceProvider
