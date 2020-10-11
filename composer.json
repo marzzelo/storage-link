@@ -1,6 +1,7 @@
 {
     "name": "marzzelo/storage-link",
     "description": "FAdeA Experimental storage-link generator from a route",
+    "license": "MIT",
     "authors": [
         {
             "name": "Marcelo",
